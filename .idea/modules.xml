@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/aws-file-upload.iml" filepath="$PROJECT_DIR$/.idea/aws-file-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactjs.iml" filepath="$PROJECT_DIR$/reactjs.iml" />
     </modules>
   </component>
 </project>
